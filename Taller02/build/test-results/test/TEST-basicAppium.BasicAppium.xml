@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="basicAppium.BasicAppium" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-12T04:45:30" hostname="MacBook-Pro-de-Angel.local" time="18.599">
+  <properties/>
+  <testcase name="verifyNameNote()" classname="basicAppium.BasicAppium" time="18.599"/>
+  <system-out><![CDATA[Ejecucion iniciada
+TEST INCIADO
+Resultado Obtenido: Titulo3
+Ejecución finalizada
+]]></system-out>
+  <system-err><![CDATA[dic. 11, 2021 11:45:39 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
